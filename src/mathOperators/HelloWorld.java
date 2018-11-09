@@ -1,4 +1,4 @@
-package decisionStructures;
+package mathOperators;
 
 public class HelloWorld {
 

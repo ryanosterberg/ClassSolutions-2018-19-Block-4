@@ -1,4 +1,4 @@
-package decisionStructures;
+package inheritance;
 
 public class HelloWorld {
 

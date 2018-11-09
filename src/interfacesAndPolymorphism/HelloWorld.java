@@ -1,4 +1,4 @@
-package decisionStructures;
+package interfacesAndPolymorphism;
 
 public class HelloWorld {
 

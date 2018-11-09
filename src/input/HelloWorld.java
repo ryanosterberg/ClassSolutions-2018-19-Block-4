@@ -1,4 +1,4 @@
-package decisionStructures;
+package input;
 
 public class HelloWorld {
 

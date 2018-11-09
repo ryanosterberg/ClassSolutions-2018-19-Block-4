@@ -1,4 +1,4 @@
-package decisionStructures;
+package designingClasses;
 
 public class HelloWorld {
 
